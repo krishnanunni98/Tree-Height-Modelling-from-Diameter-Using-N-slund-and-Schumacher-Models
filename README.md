@@ -1,0 +1,2 @@
+# Tree-Height-Modelling-from-Diameter-Using-N-slund-and-Schumacher-Models
+This exercise modelled tree height as a function of diameter at breast height using both classical height–diameter equations and a linear mixed-effects model. The workflow compared plotwise OLS, nonlinear regression, and a Schumacher-type mixed-effects model to account for hierarchical plot structure and random plot effects.
